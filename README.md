@@ -259,15 +259,19 @@ Our vision is to build an intelligent digital workspace where Artificial Intelli
 
 # 👨‍💻 Developer
 
-**Shaik Rehaan**
+**Shaik Mohammed Rehaan Ali **
 
-Backend Developer | Java | Spring Boot | AI Integration | REST APIs | JWT | MySQL
+Aspiring Backend Developer
+
+
+| Java | Spring Boot | AI Integration | REST APIs | JWT |PostgresSQL|Postman|DBeaver|PgAdmin|IntellijIdea|
 
 ---
 
 # ⭐ Support
 
 If you found this project useful, consider giving it a **⭐ Star** on GitHub. Your support encourages further development and new AI-powered features.
+
 
 
 
